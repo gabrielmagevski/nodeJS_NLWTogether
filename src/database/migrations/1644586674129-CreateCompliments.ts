@@ -12,7 +12,7 @@ export class CreateCompliments1644586674129 implements MigrationInterface {
                         type: "uuid",
                         isPrimary: true
                     },
-                    {
+                    {   
                         name: "user_sender",
                         type: "uuid",
                     },
